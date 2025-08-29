@@ -25,8 +25,8 @@ pip install -r requirements.txt
 
 Clone the repository:
 
-git clone https://github.com/omarfoud/drug-classification.git
-cd drug-classification
+git clone https://github.com/omarfoud/Drug-Classifition-with-Machine-Learning.git
+cd Drug-Classifition-with-Machine-Learning
 
 
 Run the script:
@@ -75,5 +75,6 @@ Na_to_K: Sodium-to-potassium ratio
 Drug: Target variable (Drug type)
 
 🤝 Contribution
+
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
